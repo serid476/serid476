@@ -1,5 +1,5 @@
 ## Hi there,👋 I am Dires
-Computer Science Student at Gondar University. 
+Computer Science Student @University of Gondar
 
 <!--
 **serid476/serid476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
